@@ -1,5 +1,7 @@
 # Timing Side Channel Example
 
+Presentation: https://docs.google.com/presentation/d/1MYieWwAqEIp5A8SyNpbzJwdj5Gil6KRMrV6-hGS0s00/edit?usp=sharing
+
 ### Testing Environment
 
 - OS: Ubuntu Server 22.04
